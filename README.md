@@ -13,6 +13,7 @@ I'm a part time open source developer and cybersecurity researcher from the Phil
 
 
 ## :wrench: Technologies
+[![Frontend](https://skillicons.dev/icons?i=js,html,css,react,vite)](https://skillicons.dev)
 
 appwrite
 
