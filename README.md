@@ -9,7 +9,7 @@
 
 
 ## 💻 Frontend 
-[![Frontend](https://skillicons.dev/icons?i=js,html,css,react,vite)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=js,html,css,react,vite, npm)](https://skillicons.dev)
 
 ## 💾 Backend 
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres,ts)](https://skillicons.dev)
