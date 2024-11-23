@@ -14,6 +14,9 @@
 ## 💾 Backend 
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres,ts)](https://skillicons.dev)
 
+## 🛠️ Tools
+[![Tools](https://skillicons.dev/icons?i=github,visualstudio,vscode,ubuntu,linux,git)](https://skillicons.dev)
+
 # Hi there 👋, Bhargavi here. 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
 
