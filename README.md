@@ -12,7 +12,7 @@ I'm a part time open source developer and cybersecurity researcher from the Phil
 - :dart: Wasting my time to save other people's time.
 
 
-## :wrench: Technologies
+## :Laptop: Frontend
 [![Frontend](https://skillicons.dev/icons?i=js,html,css,react,vite)](https://skillicons.dev)
 
 appwrite
