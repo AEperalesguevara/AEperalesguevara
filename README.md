@@ -2,8 +2,8 @@
 I am an undergraduate Mechatronics Engineering student at the National University of Engineering (UNI) in Lima, Peru. My technical skills include JavaScript, TypeScript, Prisma, HTML, and database management with DBeaver and Cloudinary. I have a passion for creating and optimizing web systems with efficient backend and frontend architectures.
 
 I am interested in web development, IoT integration, and technical system design
-🌱 I’m currently learning:
-  -Advanced database management with Prisma
+🌱 I’m currently learning:<br>
+  -Advanced database management with Prisma<br>
   -Frontend frameworks like React<br>
   
 👯 I’m looking forward to collaborating on tech-driven projects, especially those that merge software and hardware systems.
