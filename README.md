@@ -1,7 +1,7 @@
 # Hi, I'm Augusto Perales Guevara
 I am an undergraduate Mechatronics Engineering student at the National University of Engineering (UNI) in Lima, Peru. My technical skills include JavaScript, TypeScript, Prisma, HTML, and database management with DBeaver and Cloudinary. I have a passion for creating and optimizing web systems with efficient backend and frontend architectures.
 
-I am interested in web development, IoT integration, and technical system design
+I am interested in web development, IoT integration, and technical system design <br>
 🌱 I’m currently learning:<br>
   -Advanced database management with Prisma<br>
   -Frontend frameworks like React<br>
