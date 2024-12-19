@@ -3,8 +3,9 @@ I am an undergraduate Mechatronics Engineering student at the National Universit
 
 I am interested in web development, IoT integration, and technical system design
 🌱 I’m currently learning:
--Advanced database management with Prisma
--Frontend frameworks like React
+  -Advanced database management with Prisma
+  -Frontend frameworks like React<br>
+  
 👯 I’m looking forward to collaborating on tech-driven projects, especially those that merge software and hardware systems.
 
 ✔ Ask me about anything web-related, IoT setups, or mechatronics projects! I'll help if I can! 😉<br>
